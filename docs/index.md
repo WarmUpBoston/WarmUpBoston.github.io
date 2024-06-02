@@ -7,6 +7,7 @@ layout: home
 
 <marquee>give us money give us money give us money give us money give us money give us money give us money</marquee>
 
+![cop goes down slide](images/cop-slide-backwards.gif)
 
 # hi jim!!
 
