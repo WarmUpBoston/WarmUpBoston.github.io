@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        
+        <!-- Moved from default.html -->
+        {%- if page.title and page.show_title -%}
+          <h1 class="page-heading">{{ page.title }}</h1>
+          <hr> <br>
+        {%- endif -%}
+
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
