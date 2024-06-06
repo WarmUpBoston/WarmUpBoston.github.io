@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Photos"
-date:   2024-06-02 17:23:31 -0400
+title: Photos
+permalink: /photos/
 categories: media
 ---
 
 put picutres here
+
+![bogos binted meme](/images/bogos_binted.jpeg)

@@ -22,10 +22,11 @@ title: Warm Up Boston
 email: joinwarmup@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Warm Up Boston is a volunteer group serving the unhoused community
-  with a focus on harm reduction. Help support the people of Boston!
+  with a focus on harm reduction. Help us support the people of Boston!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://WarmUpBoston.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  WarmUpBoston
+instagram_username: WarmUpBoston
+twitter_username: WarmUpBoston
 
 # Build settings
 theme: minima
