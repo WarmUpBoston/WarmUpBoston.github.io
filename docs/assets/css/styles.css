@@ -20,8 +20,10 @@ html {
   --wub-brown: #524131;
   --wub-light-brown: #A67B49;
   --wub-lighter-brown: #B8997A;
-  --wub-header-font: "Garamond";
-  --wub-paragraph-font: "Arial";
+  --wub-small-margin: 1rem;
+  --wub-big-margin: 2.8rem;
+  --wub-header-font: "Arial";
+  --wub-paragraph-font: "Garamond";
 }
 
 html, body {
@@ -34,6 +36,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .page-link {
 }
 
 p {
+  font-size: 1.1rem;
   font-family: var(--wub-paragraph-font) !important;
 }
 
@@ -42,7 +45,9 @@ a, a:hover, a:visited {
 }
 
 hr {
-  color: var(--wub-purple);
+  color: var(--wub-light-blue);
+  margin-top: var(--wub-big-margin);
+  margin-bottom: var(--wub-big-margin);
 }
 
 .site-title, .footer-heading {
@@ -54,9 +59,23 @@ hr {
 }
 
 .site-header {
-  border-bottom-color: var(--wub-light-blue);
+  border-bottom: 0;
+}
+
+header > .wrapper {
+  padding-left: 0;
+  padding-right: 0;
+  border-bottom: 1px solid var(--wub-light-blue);
 }
 
 .site-footer {
-  border-top-color: var(--wub-light-blue);
+  border-top: 0;
+  padding-top: 0;
+}
+
+footer > .wrapper {
+  padding-top: var(--wub-small-margin);
+  padding-left: 0;
+  padding-right: 0;
+  border-top: 1px solid var(--wub-light-blue);
 }
