@@ -23,7 +23,7 @@ html {
   --wub-small-margin: 1rem;
   --wub-big-margin: 2.8rem;
   --wub-header-font: "Arial";
-  --wub-paragraph-font: "Garamond";
+  --wub-paragraph-font: "Georgia";
 }
 
 html, body {
@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .page-link {
 }
 
 p {
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   font-family: var(--wub-paragraph-font) !important;
 }
 
