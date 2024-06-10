@@ -66,12 +66,27 @@ header > .wrapper {
   padding-left: 0;
   padding-right: 0;
   border-bottom: 1px solid var(--wub-light-blue);
+  @media screen and (max-width: 800px) {
+    margin-left: var(--wub-small-margin);
+    margin-right: var(--wub-small-margin);
+  }
 }
 
 .site-footer {
   border-top: 0;
   padding-top: 0;
+  @media screen and (max-width: 800px) {
+    margin-left: var(--wub-small-margin);
+    margin-right: var(--wub-small-margin);
+  }
 }
+
+nav {
+  background-color: var(--wub-bkgd-black) !important;
+  border-color: var(--wub-bkgd-black) !important;
+}
+
+.site-nav .menu-icon > svg { fill: var(--wub-light-blue); }
 
 footer > .wrapper {
   padding-top: var(--wub-small-margin);
