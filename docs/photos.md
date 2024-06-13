@@ -7,4 +7,4 @@ categories: media
 
 put picutres here
 
-![bogos binted meme](/images/bogos_binted.jpeg)
+![bogos binted meme](/assets/images/bogos_binted.jpeg)

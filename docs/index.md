@@ -22,6 +22,5 @@ Through our work, we see clearly that Boston's homelessness crisis is the culmin
 - [Twitter](https://x.com/WarmUpBoston)
 
 ----
-<br>
 
 *Warm Up Boston works for the community living on Massachusett land. We also acknowledge the neighboring Indigenous Nations: the Wampanoag to the Southeast, the Nipmuc to the West, the Abenaki to the North, and the Narragansett, Pequot, and Mohegan to the Southwest. We extend our respect to citizens of these Nations who live here today and to their ancestors​​​​​​.​​ This is and always will be Indigenous land.*

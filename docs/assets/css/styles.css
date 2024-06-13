@@ -1,0 +1,96 @@
+html {
+  --wub-bkgd-white: #ffffff;
+  --wub-bkgd-black: #000000;
+  --wub-purple: #A9A1D8;
+  --wub-blue: #3D8790;
+  --wub-light-blue: #DDECEA;
+  --wub-green: #B39F61;
+  --wub-yellow: #F6F056;
+  --wub-dark-yellow: #DFB348;
+  --wub-light-yellow: #F3E9C9;
+  --wub-orange: #EB7135;
+  --wub-dark-orange: #DA884C;
+  --wub-red: #E83D2F;
+  --wub-dark-red: #A73824;
+  --wub-darker-red: #5E3122;
+  --wub-black: #1D1D1D;
+  --wub-dark-grey: #3C3630;
+  --wub-light-grey: #E9E8D9;
+  --wub-white: #F9F8FA;
+  --wub-brown: #524131;
+  --wub-light-brown: #A67B49;
+  --wub-lighter-brown: #B8997A;
+  --wub-small-margin: 1rem;
+  --wub-big-margin: 2.8rem;
+  --wub-header-font: "Arial";
+  --wub-paragraph-font: "Georgia";
+}
+
+html, body {
+  background-color: var(--wub-bkgd-black);
+  color: var(--wub-white);
+}
+
+h1, h2, h3, h4, h5, h6, .site-title, .page-link {
+  font-family: var(--wub-header-font) !important;
+}
+
+p {
+  font-size: 1.05rem;
+  font-family: var(--wub-paragraph-font) !important;
+}
+
+a, a:hover, a:visited {
+  color: var(--wub-blue);
+}
+
+hr {
+  color: var(--wub-light-blue);
+  margin-top: var(--wub-big-margin);
+  margin-bottom: var(--wub-big-margin);
+}
+
+.site-title, .footer-heading {
+  color: var(--wub-red) !important;
+}
+
+.page-link, .footer-col-wrapper {
+  color: var(--wub-white) !important;
+}
+
+.site-header {
+  border-bottom: 0;
+}
+
+header > .wrapper {
+  padding-left: 0;
+  padding-right: 0;
+  border-bottom: 1px solid var(--wub-light-blue);
+  @media screen and (max-width: 800px) {
+    margin-left: var(--wub-small-margin);
+    margin-right: var(--wub-small-margin);
+  }
+}
+
+.site-footer {
+  border-top: 0;
+  padding-top: 0;
+  @media screen and (max-width: 800px) {
+    margin-left: var(--wub-small-margin);
+    margin-right: var(--wub-small-margin);
+  }
+}
+
+nav {
+  background-color: var(--wub-bkgd-black) !important;
+  border-color: var(--wub-bkgd-black) !important;
+}
+
+.site-nav .menu-icon > svg { fill: var(--wub-light-blue); }
+
+footer > .wrapper {
+  padding-top: var(--wub-small-margin);
+  padding-left: 0;
+  padding-right: 0;
+  border-top: 1px solid var(--wub-light-blue);
+}

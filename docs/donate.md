@@ -11,8 +11,6 @@ Please consider supporting our work through either a one-time or sustainer donat
 **TODO: link to KoFi**
 
 ---
-<!-- annoying that line breaks have like no padding on the bottom... -->
-<br>
 
 ## Donating Supplies
 We are always gratefully accepting donations of material aid, with a focus on the following items. Please [send us a message](/contact/) if you wish to donate!
@@ -29,7 +27,6 @@ You can also purchase us items from our Amazon Wishlist
 **TODO: link to amazon wishlist**
 
 ---
-<br>
 
 ## Warm Up Store
 Our good friends at Speakeasy Print Shop donate all sales from their [Warm Up Store](https://www.speakeasyprintshop.com/warm-up-boston) to our efforts. 
