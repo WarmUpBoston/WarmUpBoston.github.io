@@ -1,6 +1,6 @@
 html {
   --wub-bkgd-white: #ffffff;
-  --wub-bkgd-black: #000000;
+  --wub-bkgd-black: #1D1D1D;
   --wub-purple: #A9A1D8;
   --wub-blue: #3D8790;
   --wub-light-blue: #DDECEA;
@@ -59,6 +59,7 @@ hr {
 }
 
 .site-header {
+  border-top-color: var(--wub-bkgd-black);
   border-bottom: 0;
 }
 
