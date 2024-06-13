@@ -70,6 +70,27 @@ header > .wrapper {
     margin-left: var(--wub-small-margin);
     margin-right: var(--wub-small-margin);
   }
+  display: flex;
+  align-items: center;
+}
+
+.site-title {
+  display: flex;
+  margin-top: var(--wub-small-margin);
+  margin-bottom: var(--wub-small-margin);
+}
+
+.inner-site-title {
+  margin-left: var(--wub-small-margin);
+}
+
+.logo {
+  max-width: 50px;
+  align-self: center;
+}
+
+.trigger {
+  margin-left: var(--wub-big-margin);
 }
 
 .site-footer {
