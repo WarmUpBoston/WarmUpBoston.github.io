@@ -41,7 +41,7 @@ p {
 }
 
 a, a:hover, a:visited {
-  color: var(--wub-blue);
+  color: var(--wub-dark-yellow);
 }
 
 hr {
