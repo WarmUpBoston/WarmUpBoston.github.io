@@ -12,6 +12,7 @@ html {
   --wub-dark-red: #A73824;
   --wub-darker-red: #5E3122;
   --wub-black: #1D1D1D;
+  --wub-darker-grey: #333333;
   --wub-dark-grey: #3C3630;
   --wub-light-grey: #E9E8D9;
   --wub-white: #F9F8FA;
@@ -25,7 +26,7 @@ html {
 }
 
 html, body {
-  background-color: var(--wub-black);
+  background-color: var(--wub-darker-grey);
   color: var(--wub-white);
 }
 
@@ -49,8 +50,8 @@ hr {
 }
 
 nav {
-  background-color: var(--wub-black) !important;
-  border-color: var(--wub-black) !important;
+  background-color: var(--wub-darker-grey) !important;
+  border-color: var(--wub-darker-grey) !important;
 }
 
 .site-title, .footer-heading {

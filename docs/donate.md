@@ -8,7 +8,13 @@ show_title: false
 ## Donating Funds
 Please consider supporting our work through either a one-time or sustainer donation. Your funds go directly to the purchase of material aid that we redistribute into the unhoused community. 
 
-**TODO: link to KoFi**
+<iframe
+id='kofiframe'
+src='https://ko-fi.com/warmupboston/?hidefeed=true&widget=true&embed=true&preview=true'
+style='border:none;width:100%;padding:4px;background:#f9f9f9;'
+height='712'
+title='warmupboston'>
+</iframe>
 
 ---
 
@@ -21,10 +27,6 @@ We are always gratefully accepting donations of material aid, with a focus on th
 - Clothing 
     - Adult-size only, we do not accept children's clothing
 - Unused socks and unopened underwear
-
-You can also purchase us items from our Amazon Wishlist
-
-**TODO: link to amazon wishlist**
 
 ---
 
