@@ -22,10 +22,6 @@ We are always gratefully accepting donations of material aid, with a focus on th
     - Adult-size only, we do not accept children's clothing
 - Unused socks and unopened underwear
 
-You can also purchase us items from our Amazon Wishlist
-
-**TODO: link to amazon wishlist**
-
 ---
 
 ## Warm Up Store
