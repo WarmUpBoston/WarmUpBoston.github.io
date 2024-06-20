@@ -5,7 +5,7 @@ permalink: /contact/
 show_title: false
 ---
 
-We are always welcoming new volunteers! Please contact us using the form below or by messaging us on Instagram. 
+We are always welcoming new volunteers! Please contact us via email or by messaging us on Instagram. 
 
 **NOTE: All volunteers must be over 18.**
 
