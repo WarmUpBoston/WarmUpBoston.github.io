@@ -15,7 +15,9 @@ The Mass ID Access Bill (Senate Bill 2251 and House Bills 3388/3360) would take 
 
 This should be easy. The MA Senate has passed this bill **unanimously in four consecutive sessions**. However, it has been **held up in the MA House Ways and Means Committee for over a year without explanation**. We need the bill to be advanced out of Ways and Means and brought to a vote of the House.
 
-_**Take Action!**_ Send the below emails to House Ways and Means Chair Michlewitz, Speaker Mariano, House Majority Leader Moran, and your local representative.
+#### Take Action!
+
+Send the below emails to House Ways and Means Chair Michlewitz, Speaker Mariano, House Majority Leader Moran, and your local representative.
 
 ---
 
