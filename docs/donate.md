@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support Warm Up
+title: Support Us
 permalink: /donations/
 show_title: false
 ---
