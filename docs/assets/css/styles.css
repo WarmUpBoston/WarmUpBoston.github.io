@@ -39,6 +39,10 @@ p, ul, ol {
   font-family: var(--wub-paragraph-font) !important;
 }
 
+blockquote {
+  color: var(--wub-white);
+}
+
 a, a:hover, a:visited {
   color: var(--wub-dark-yellow);
 }
