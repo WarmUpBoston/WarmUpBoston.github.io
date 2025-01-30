@@ -5,72 +5,47 @@ permalink: /advocacy/
 show_title: false
 ---
 
-# Mass ID Access Bill
+# STOP THE SWEEPS
 
-If you don’t have an ID, you cannot access resources necessary to overcome homelessness, including applying for housing and food assistance. **Why is this?** It is because the state imposes arbitrary, unfair hurdles to obtaining ID, which are almost impossible for homeless people to meet: needing to have a permanent home address to show residence and paying a $25 fee.
+Join us in demanding that the Department of Conservation and Recreation put an end to the inhumane sweeps of our neighbors off of DCR land and offer them trash services instead - services that all other residents of the city have access to. 
 
-The Mass ID Access Bill (Senate Bill 2251 and House Bills 3388/3360) would take **two simple actions** to make getting an ID easier for unhoused people:
-1. Create a waiver for ID fees
-2. Allow people who do not have a permanent home address to instead show residency via documentation from homelessness services providers or state services agencies
+### Take Action!
 
-This should be easy. The MA Senate has passed this bill **unanimously in four consecutive sessions**. However, it has been **held up in the MA House Ways and Means Committee for over a year without explanation**. We need the bill to be advanced out of Ways and Means and brought to a vote of the House.
-
-#### Take Action!
-
-Send the below emails to House Ways and Means Chair Michlewitz, Speaker Mariano, House Majority Leader Moran, and your local representative.
+1. Send the below email to Department of Conservation and Recreation Commissioner Brian Arrigo
+2. Call Commissioner Arrigo at (617) 626-1250 and use the below phone script
 
 ---
 
-#### Model Text for Email to Representative Michlewitz, Speaker Mariano, and House Majority Leader Moran
+#### Model Text for Email to Department of Conservation and Recreation Commissioner Brian Arrigo
 
-Send to: [Aaron.M.Michlewitz@mahouse.gov](mailto:Aaron.M.Michlewitz@mahouse.gov), [Ronald.Mariano@mahouse.gov](mailto:Ronald.Mariano@mahouse.gov), [Michael.Moran@mahouse.gov](mailto:Michael.Moran@mahouse.gov)
+Send to: [Brian.Arrigo@mass.gov](mailto:Brian.Arrigo@mass.gov), [Mass.Parks@mass.gov](mailto:Mass.Parks@mass.gov)
 
-> Dear Representatives Michlewitz, Mariano, and Moran:
+> Dear Commissioner Arrigo,
 >
-> I am writing to ask for the House Committee on Ways and Means to favorably advance the Mass ID Access Bill (“An Act to provide identification to youth and adults experiencing homelessness”), without amending it to water down the benefits it provides.
+> I am writing to you out of concern for DCR’s cruel and inhumane encampment sweep policies, specifically the upcoming sweep planned for Monday, February 3rd at the encampment off of Solider’s Field Road. 
 >
-> As you’re already aware, Senate Bill 2251 has passed the Senate *four times*, most recently via unanimous vote in July 2023, and referred to House Ways and Means, where it has been consistently stalled by committee members. In April 2024, the Committee on Transportation reported out its House companions, House Bill 3388, accompanied by House Bill 3360, favorably and referred it to the House Committee on Ways and Means.
+> While I admire DCR’s mission of protecting the land, I also urge you to respect the people who call this land home. Even if done in the “most humane” fashion, sweeps are never humane. The last sweep, which DCR claimed was “as humane as possible,” was described by one resident as the worst sweep she has experienced in nearly 10 years of being unhoused.  Almost everyone at the encampment is engaged with services and stuck simply waiting for housing. There is nowhere else for them to go. They will not simply disappear after a sweep. 
 >
-> This bill would:
+> During sweeps, residents, many whom are disabled, are forced to move all of their possessions through rugged terrain in the freezing cold.  Sweeps like the ones DCR conducts keep people up for days straight and force them to dismantle vital weatherproofing that keeps them safe in this harsh weather. Residents are regularly yelled at and threatened with arrest by Massachusetts State Police. People lose IDs, birth certificates, essential survival supplies, and treasured belongings. Sweeps displace people, making it harder for service providers to find them and engage with them. Sweeps worsen health outcomes and make it harder for people to become housed. Sweeps increase the risk of fires by damaging or throwing out safer tent heaters that turn off when tipped over, leaving people relying on candles for heat and by throwing out other fire proofing tools like fire blankets and fire extinguishers. Sweeps are direct health and safety risks. There are no ways around these facts. 
 >
-> * Establish a fee waiver process for youth and adults experiencing homelessness seeking standard Mass IDs
-> * Create a process for individuals experiencing homelessness to apply for standard Mass IDs if they cannot meet the existing criteria by allowing ID applicants who are experiencing homelessness to submit residency documentation from providers of homelessness and/or youth services and state agencies
+> No one more than the residents want to keep the land safe and trash free. These are their homes, and they love them just as you or I love our houses and apartments. Residents want desperately to avoid fires or trash build up that attracts rats. However, unlike everyone else in the city, the residents of the encampment do not have access to trash services, making it incredibly difficult for them to keep their spaces clean.  
 >
-> If you don’t have an ID, you cannot access resources necessary to overcome homelessness. ID is required for a broad range of life activities, including applying for housing, the most important thing for unhoused people, as well as accessing essential social services.
-> 
-> Given the districts you represent, I would expect you are well aware of the need to help people overcome homelessness. Remember that you represent everyone in your district, housed and unhoused. Continuing to ignore this bill suggest to your constituents that you care about them only so long as they don’t fall victim to the unmitigated housing crisis in Massachusetts.
+> I urge you to have compassion for the people living at the BU Bridge encampments and all other encampments on DCR land. I demand trash services for the people living on DCR land and an end to all sweeps. 
 >
-> Please reply to let me know the actions you plan to take to move this bill forward following this unacceptable period of inaction.
->
-> Sincerely,
->
-> [Your Name]
-
----
-
-#### Model Text For Email to Your MA House Representative
-
-*(Find your House representative and their email address [here](https://malegislature.gov/Search/FindMyLegislator))*
-
-> Dear Representative [______]:
-> 
-> I am a resident of your district. I am writing to ask you to pressure Representative Michlewitz, as Chair of the House Committee on Ways and Means, House Majority Leader Moran, and Speaker Mariano to get the Mass ID Access Bill (“An Act to provide identification to youth and adults experiencing homelessness”) advanced out of House Ways and Means to a vote, and for you to vote favorably on the bill once it advances.
-> 
-> Senate Bill 2251 has passed the Senate *four times*, most recently via unanimous vote in July 2023, and referred to House Ways and Means, where it has been consistently stalled by committee members. In April 2024, the Committee on Transportation reported out its House companions, House Bill 3388, accompanied by House Bill 3360, favorably and referred it to the House Committee on Ways and Means.
-> 
-> If you are not already aware, this bill would:
-> 
-> * Establish a fee waiver process for youth and adults experiencing homelessness seeking standard Mass IDs
-> * Create a process for individuals experiencing homelessness to apply for standard Mass IDs if they cannot meet the existing criteria by allowing ID applicants who are experiencing homelessness to submit residency documentation from providers of homelessness and/or youth services and state agencies
-> 
-> If you don’t have an ID, you cannot access resources necessary to overcome homelessness. ID is required for a broad range of life activities, including applying for housing, the most important thing for unhoused people, as well as accessing essential social services.
-> 
-> Sixteen states and the District of Columbia already offer free or reduced fee IDs for people experiencing homelessness. Massachusetts should not be behind the times on this, especially as the unmitigated housing crisis in the Commonwealth accelerates the number of individuals and families experiencing homelessness.
-> 
-> Please reply to let me know the actions you plan to take to move this bill forward.
-> 
-> Thank you for your time, consideration, and action on this critical issue.
+> Please reply to let me know the actions you plan to take to address these concerns. Thank you.
 > 
 > Sincerely,
 > 
 > [Your Name]
+
+----
+
+#### Call Script for DCR Commissioner Brian Arrigo: (617) 626-1250
+
+> "Hi, my name is     ___________________________________________     and I am a resident of [TOWN].   My email address is [EMAIL]. 
+>
+> I am calling to let Commissioner Brian Arrigo know that I oppose the many evictions of unhoused residents in the DCR properties located near the BU Bridge over the past year as well as the planned eviction on February 3. These evictions cut people off from critical outreach and public health services, and are deeply unsafe during the extremely cold winter weather, as people are asked to dismantle their shelters with no safe, warm place to go. 
+>
+>The resources spent on these evictions would be better spent on providing trash removal services to these residents. 
+>
+> Please reply to let me know the actions you plan to take to address these concerns. Thank you."
