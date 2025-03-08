@@ -5,47 +5,43 @@ permalink: /advocacy/
 show_title: false
 ---
 
-# STOP THE SWEEPS
+# WAR ON DRUGS IS BULLSHIT
 
-Join us in demanding that the Department of Conservation and Recreation put an end to the inhumane sweeps of our neighbors off of DCR land and offer them trash services instead - services that all other residents of the city have access to. 
+Boston Mayor Wu’s administration is caving to pressure from business owners who blame the unhoused for their failing businesses in Downtown Crossing and homeowners who are more concerned about their comfort and property values than people’s lives. They announced a new "addiction first" plan to end public consumption through forced treatment, increased policing, and the rollback of street harm reduction services.
+
+Join us in demanding that Mayor Wu reverse this deadly policy and instead advocate for funding for Overdose Prevention Centers.
 
 ### Take Action!
 
-1. Send the below email to Department of Conservation and Recreation Commissioner Brian Arrigo
-2. Call Commissioner Arrigo at (617) 626-1250 and use the below phone script
+1. Send the below email to Mayor Wu
+2. Call Mayor Wu at 617-635-4500
+
+Feel free to use our scripts, or create your own!
 
 ---
 
-#### Model Text for Email to Department of Conservation and Recreation Commissioner Brian Arrigo
+#### EMAIL SCRIPT
 
-Send to: [Brian.Arrigo@mass.gov](mailto:Brian.Arrigo@mass.gov), [Mass.Parks@mass.gov](mailto:Mass.Parks@mass.gov)
+Send to: [Michelle.Wu@boston.gov](mailto:Michelle.Wu@boston.gov)
 
-> Dear Commissioner Arrigo,
->
-> I am writing to you out of concern for DCR’s cruel and inhumane encampment sweep policies, specifically the upcoming sweep planned for Monday, February 3rd at the encampment off of Solider’s Field Road. 
->
-> While I admire DCR’s mission of protecting the land, I also urge you to respect the people who call this land home. Even if done in the “most humane” fashion, sweeps are never humane. The last sweep, which DCR claimed was “as humane as possible,” was described by one resident as the worst sweep she has experienced in nearly 10 years of being unhoused.  Almost everyone at the encampment is engaged with services and stuck simply waiting for housing. There is nowhere else for them to go. They will not simply disappear after a sweep. 
->
-> During sweeps, residents, many whom are disabled, are forced to move all of their possessions through rugged terrain in the freezing cold.  Sweeps like the ones DCR conducts keep people up for days straight and force them to dismantle vital weatherproofing that keeps them safe in this harsh weather. Residents are regularly yelled at and threatened with arrest by Massachusetts State Police. People lose IDs, birth certificates, essential survival supplies, and treasured belongings. Sweeps displace people, making it harder for service providers to find them and engage with them. Sweeps worsen health outcomes and make it harder for people to become housed. Sweeps increase the risk of fires by damaging or throwing out safer tent heaters that turn off when tipped over, leaving people relying on candles for heat and by throwing out other fire proofing tools like fire blankets and fire extinguishers. Sweeps are direct health and safety risks. There are no ways around these facts. 
->
-> No one more than the residents want to keep the land safe and trash free. These are their homes, and they love them just as you or I love our houses and apartments. Residents want desperately to avoid fires or trash build up that attracts rats. However, unlike everyone else in the city, the residents of the encampment do not have access to trash services, making it incredibly difficult for them to keep their spaces clean.  
->
-> I urge you to have compassion for the people living at the BU Bridge encampments and all other encampments on DCR land. I demand trash services for the people living on DCR land and an end to all sweeps. 
->
-> Please reply to let me know the actions you plan to take to address these concerns. Thank you.
+> Dear Mayor Wu,
+> 
+> My name is [name], and I live in Boston. I am writing to voice my deep concern for your new “Addiction First” policy to deal with congregant drug use. Your administration’s plan to end public consumption through forced treatment, increased policing, and the rollback of street harm reduction services will be deadly.
+> 
+> War on Drugs policies, like the ones your administration is enacting, do not help decrease substance use. They increase wealth gaps, break up families, and disproportionately destabilize black and brown communities. 
+> 
+> In addition to these, your administration’s new policies will:
+> 
+> * increase fatal overdoses
+> * make it harder for people to access housing, stabilization, and medical services
+> * needlessly incarcerate people
+> * traumatize people
+> * increase infections and transmission of disease
+> 
+> Instead of further criminalizing people who use drugs in public, going against the recommendations of homeless service providers in Boston and kowtowing to business interests, you should be advocating for the funding and creation of Overdose Prevention Centers.
+> 
+> You will not have my vote this November unless you reverse this policy and treat people who use drugs with the compassion they deserve. 
 > 
 > Sincerely,
 > 
 > [Your Name]
-
-----
-
-#### Call Script for DCR Commissioner Brian Arrigo: (617) 626-1250
-
-> "Hi, my name is     ___________________________________________     and I am a resident of [TOWN].   My email address is [EMAIL]. 
->
-> I am calling to let Commissioner Brian Arrigo know that I oppose the many evictions of unhoused residents in the DCR properties located near the BU Bridge over the past year as well as the planned eviction on February 3. These evictions cut people off from critical outreach and public health services, and are deeply unsafe during the extremely cold winter weather, as people are asked to dismantle their shelters with no safe, warm place to go. 
->
->The resources spent on these evictions would be better spent on providing trash removal services to these residents. 
->
-> Please reply to let me know the actions you plan to take to address these concerns. Thank you."
