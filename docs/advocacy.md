@@ -45,3 +45,15 @@ Send to: [Michelle.Wu@boston.gov](mailto:Michelle.Wu@boston.gov)
 > Sincerely,
 > 
 > [Your Name]
+
+#### CALL SCRIPT
+
+PHONE # 617-635-4500
+
+> Hello, my name is [name], and I live in Boston. 
+> 
+> I’m calling to express my deep concern about the “Addiction First” policy your administration recently enacted to address congregant drug use. I believe your plan to end public consumption through increased policing, forced treatment, and rolling back street harm reduction services will be deadly. This policy will lead to more fatal overdoses, make it harder for people to access housing and medical services, unnecessarily incarcerate people, and increase disease transmission. 
+> 
+> Instead of criminalizing people who use drugs, I urge you to support the creation of Overdose Prevention Centers in Boston. You will not have my vote unless you reverse this harmful policy and treat people who use drugs with the compassion they deserve.
+> 
+> Thank you.
