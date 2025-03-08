@@ -41,6 +41,10 @@ p, ul, ol {
 
 blockquote {
   color: var(--wub-white);
+  
+  /* Override the scrunched-up -1px letter-spacing the default CSS provides for blockquotes */ 
+  font-style: normal;
+  letter-spacing: 0px;
 }
 
 a, a:hover, a:visited {
