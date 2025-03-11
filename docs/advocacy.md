@@ -38,7 +38,7 @@ Send to: [Michelle.Wu@boston.gov](mailto:Michelle.Wu@boston.gov)
 > * traumatize people
 > * increase infections and transmission of disease
 > 
-> Instead of further criminalizing people who use drugs in public, going against the recommendations of homeless service providers in Boston and kowtowing to business interests, you should be advocating for the funding and creation of Overdose Prevention Centers.
+> Instead of further criminalizing people who use drugs in public, going against the recommendations of homeless service providers in Boston and pandering to business interests, you should be advocating for the funding and creation of Overdose Prevention Centers.
 > 
 > You will not have my vote this November unless you reverse this policy and treat people who use drugs with the compassion they deserve. 
 > 
