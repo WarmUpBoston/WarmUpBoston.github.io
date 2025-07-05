@@ -29,6 +29,13 @@ url: "https://WarmUpBoston.github.io" # the base hostname & protocol for your si
 instagram_username: WarmUpBoston
 twitter_username: WarmUpBoston
 
+# links shown on header bar
+header_pages:
+- advocacy.md   # Advocacy
+- calendar.md   # Calendar
+- contact.md    # Contact us
+- donate.md     # Support us
+
 # Build settings
 theme: minima
 plugins:
