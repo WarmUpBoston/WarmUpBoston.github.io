@@ -6,44 +6,43 @@ layout: default
 <script>
 	TESTER = document.getElementById('tester');
     
-    var data = [{
-  type:'scattermap',
-  lat:['42.5017'],
-  lon:['-71.110558'],
-  mode:'markers',
-  marker: {
-    size:14
-  },
-  text:['TENT FOR SALE HERE']
-},
+    var data = [
+        {
+            type:'scattermap',
+            lat:['42.5017'],
+            lon:['-71.110558'],
+            mode:'markers',
+            marker: {
+                size:14
+            },
+            text:['TENT FOR SALE HERE']
+        },
 
-{
-  type:'scattermap',
-  lat:['42.36433'],
-  lon:['-71.10970'],
-  mode:'markers',
-  marker: {
-    size:14
-  },
-  text:['COOLER FOR SALE HERE']
-}
-]
+        {
+            type:'scattermap',
+            lat:['42.36433'],
+            lon:['-71.10970'],
+            mode:'markers',
+            marker: {
+                size:14
+            },
+            text:['COOLER FOR SALE HERE']
+        }
+    ]
 
-var layout = {
-  autosize: true,
-  hovermode:'closest',
-  map: {
-    bearing:0,
-    center: {
-      lat:42.373611,
-      lon:-71.110558
-    },
-    pitch:0,
-    zoom:10
-  },
-}
+    var layout = {
+        autosize: true,
+        hovermode:'closest',
+        map: {
+            bearing:0,
+            center: {
+            lat:42.373611,
+            lon:-71.110558
+            },
+            pitch:0,
+            zoom:10
+        },
+    }
 
-Plotly.newPlot('tester', data, layout)
+    Plotly.newPlot('tester', data, layout)
 </script>
-
-42.36433, -71.10970
